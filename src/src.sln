@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ezlib", "Ezlib\Ezlib.vbproj", "{73849E3B-0DF1-4627-A5A4-9D44E1913412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73849E3B-0DF1-4627-A5A4-9D44E1913412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73849E3B-0DF1-4627-A5A4-9D44E1913412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73849E3B-0DF1-4627-A5A4-9D44E1913412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73849E3B-0DF1-4627-A5A4-9D44E1913412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD75E0B8-A33E-421B-97F0-9576F78A9D24}
+	EndGlobalSection
+EndGlobal
