@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Ezlib")>
+<Assembly: AssemblyTitle("EzLib")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Ezlib")>
+<Assembly: AssemblyProduct("EzLib")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("b070d230-9da4-42d4-ac30-446cd66e5ce3")>
+<Assembly: Guid("086d7483-d7cc-4f6f-b1d8-657a18fe6999")>
 
 ' Version information for an assembly consists of the following four values:
 '
